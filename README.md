@@ -55,10 +55,10 @@ Add more medicines and languages without major refactoring.
 ## Technology Stack
 
 [ For Web ]
-Frontend: Html,css,bootstrap,javascript
-Backend: Database , Apis, Node.Js
-Ui Design: Bootstrap , Css
-Version Control :Git/Github
+- Frontend: Html,css,bootstrap,javascript
+- Backend: Database , Apis, Node.Js
+- Ui Design: Bootstrap , Css
+- Version Control :Git/Github
 
 
 ## Problem Statement
