@@ -3,10 +3,10 @@
 ![MedGuide Banner](Med.png)
 
 ## Overview
-WE ARE BUILDING A MOBILE/WEB SOFTWARE SOLUTION THAT LEVERAGES LANGUAGE LOCALIZATION AND OCR TO SIMPLIFY MEDICINE-RELATED INFORMATION FOR PATIENTS. THE PROJECT ALIGNS WITH THE INDIASTACK THEME THROUGH FUTURE INTEGRATION WITH HEALTH-RELATED DIGITAL SERVICES LIKE DIGILOCKER AND ABHA HEALTH RECORDS.
+We Are Building A Mobile/Web Software Solution That Leverages Language Localization And Ocr To Simplify Medicine-related Information For Patients. The Project Aligns With The Indiastack Theme Through Future Integration With Health-related Digital Services Like Digilocker And Abha Health Records.
 
 ## Social Impact
-MEDGUIDE” EMPOWERS PATIENTS IN TIER 2/3 CITIES AND RURAL INDIA BY TRANSLATING COMPLEX MEDICAL INFORMATION INTO LOCAL LANGUAGES. IT PROMOTES MEDICINE SAFETY, REDUCES HEALTH RISKS DUE TO MISINTERPRETATION, AND SUPPORTS ELDERLY AND LOW-LITERACY USERS. THE SOLUTION BRIDGES THE COMMUNICATION GAP BETWEEN HEALTHCARE SYSTEMS AND UNDERSERVED COMMUNITIES.
+“Medguide” Empowers Patients In Tier 2/3 Cities And Rural India By Translating Complex Medical Information Into Local Languages. It Promotes Medicine Safety, Reduces Health Risks Due To Misinterpretation, And Supports Elderly And Low-literacy Users. The Solution Bridges The Communication Gap Between Healthcare Systems And Underserved Communities.
 
 ## Features
 
@@ -32,34 +32,35 @@ Dosage information
 Built using best practices in Flutter with separation of concerns:
 Presentation → Application → Domain → Data
 
-🔁 State Management with BLoC
+- 🔁 State Management with BLoC
 Efficient state handling for smooth user interactions.
 
-📲 User-Friendly UI
+- 📲 User-Friendly UI
 Simple, intuitive interface suitable for all age groups.
 
-🧪 Easily Extensible
+- 🧪 Easily Extensible
 Add more medicines and languages without major refactoring.
 
 ## Technology Stack
 
-- FRONTEND: FLUTTER (CLEAN ARCHITECTURE)
-- OCR ENGINE: GOOGLE_ML_KIT(FOR ON DEVICE TEXT RECOGNIZATION)
-- LOCALIZATION: FLUTTER_LOCALIZATION, EASY_LOCALIZATION OR INTL
-- BACKEND: DATABASE , APIS
-- DATABASE: FIREBASE FIRESTORE
-- ROUTING: GO_ROUTER
-- UI DESIGN: MATERIAL 3 / CUPERTINO WIDGETS
-- ANIMATIONS: FLUTTER_ANIMATE
-
+- Frontend: Flutter (Clean Architecture)
+- Ocr Engine: Google_ml_kit(for On Device Text Recognization)
+- Localization: Flutter_localization, Easy_localization Or Intl
+- Backend: Database , Apis
+- Database: Firebase Firestore
+- Routing: Go_router
+- Ui Design: Material 3 / Cupertino Widgets
+- Animations: Flutter_animate
 
 ## Problem Statement
 
-IN INDIA, A LARGE PORTION OF THE POPULATION—ESPECIALLY IN TIER 2/3 CITIES AND RURAL AREAS—STRUGGLES TO UNDERSTAND MEDICAL PRESCRIPTIONS DUE TO LANGUAGE BARRIERS, TECHNICAL JARGON, AND LOW HEALTH LITERACY. ELDERLY PATIENTS AND NON-ENGLISH SPEAKERS OFTEN MISINTERPRET MEDICINE USAGE, DOSAGE, OR POTENTIAL SIDE EFFECTS, WHICH CAN LEAD TO SERIOUS HEALTH RISKS. THIS COMMUNICATION GAP BETWEEN PATIENTS AND HEALTHCARE PROFESSIONALS IS A MAJOR CHALLENGE IN ENSURING SAFE AND EFFECTIVE TREATMENT ADHERENCE. THERE IS A CLEAR NEED FOR A SIMPLE, ACCESSIBLE TOOL THAT EXPLAINS MEDICINE INFORMATION IN LOCAL LANGUAGES TO EMPOWER USERS AND IMPROVE HEALTHCARE OUTCOMES.
+In India, A Large Portion Of The Population—especially In Tier 2/3 Cities And Rural Areas—struggles To Understand Medical Prescriptions Due To Language Barriers, Technical Jargon, And Low Health Literacy. Elderly Patients And Non-english Speakers Often Misinterpret Medicine Usage, Dosage, Or Potential Side Effects, Which Can Lead To Serious Health Risks. This Communication Gap Between Patients And Healthcare Professionals Is A Major Challenge In Ensuring Safe And Effective Treatment Adherence. There Is A Clear Need For A Simple, Accessible Tool That Explains Medicine Information In Local Languages To Empower Users And Improve Healthcare Outcomes.
+
 
 ## Brief Description Of Our Idea
 
-- “MEDGUIDE” IS A MOBILE/WEB APP THAT ALLOWS USERS TO EITHER TYPE OR SCAN A MEDICINE NAME TO RECEIVE EASY-TO-UNDERSTAND EXPLANATIONS IN THEIR PREFERRED LOCAL LANGUAGE (HINDI, TAMIL, BENGALI, ETC.). THE APP PROVIDES INFORMATION SUCH AS THE MEDICINE’S USE, DOSAGE, AND COMMON SIDE EFFECTS USING A HARDCODED DATABASE OF 50+ COMMON DRUGS. THE MVP FOCUSES ON ACCESSIBILITY AND USER-FRIENDLINESS, ESPECIALLY FOR ELDERLY OR NON-ENGLISH-SPEAKING USERS. FUTURE VERSIONS CAN INTEGRATE WITH INDIASTACK ELEMENTS LIKE DIGILOCKER OR HEALTH ID FOR PRESCRIPTION RETRIEVAL AND PERSONALIZED GUIDANCE!
+- “Medguide” Is A Mobile/Web App That Allows Users To Either Type Or Scan A Medicine Name To Receive Easy-to-understand Explanations In Their Preferred Local Language (Hindi, Tamil, Bengali, Etc.). The App Provides Information Such As The Medicine’s Use, Dosage, And Common Side Effects Using A Hardcoded Database Of 50+ Common Drugs. The Mvp Focuses On Accessibility And User-friendliness, Especially For Elderly Or Non-english-speaking Users. Future Versions Can Integrate With Indiastack Elements Like Digilocker Or Health Id For Prescription Retrieval And Personalized Guidance.
+
 
 
 ### Thank you 
