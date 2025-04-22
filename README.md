@@ -52,6 +52,15 @@ Add more medicines and languages without major refactoring.
 - Ui Design: Material 3 / Cupertino Widgets
 - Animations: Flutter_animate
 
+## Technology Stack
+
+[ For Web ]
+Frontend: Html,css,bootstrap,javascript
+Backend: Database , Apis, Node.Js
+Ui Design: Bootstrap , Css
+Version Control :Git/Github
+
+
 ## Problem Statement
 
 In India, A Large Portion Of The Population—especially In Tier 2/3 Cities And Rural Areas—struggles To Understand Medical Prescriptions Due To Language Barriers, Technical Jargon, And Low Health Literacy. Elderly Patients And Non-english Speakers Often Misinterpret Medicine Usage, Dosage, Or Potential Side Effects, Which Can Lead To Serious Health Risks. This Communication Gap Between Patients And Healthcare Professionals Is A Major Challenge In Ensuring Safe And Effective Treatment Adherence. There Is A Clear Need For A Simple, Accessible Tool That Explains Medicine Information In Local Languages To Empower Users And Improve Healthcare Outcomes.
@@ -65,4 +74,4 @@ In India, A Large Portion Of The Population—especially In Tier 2/3 Cities And 
 
 ### Thank you 
 
-## Team Name :- AppRush
+## Team Name :- 
